@@ -1,7 +1,7 @@
 {
   "name": "@ops-dss/explorers",
   "version": "0.0.0",
-  "private": true,
+  "private": false,
   "exports": {
     "./*": "./src/*.tsx"
   },
